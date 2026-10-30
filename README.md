@@ -1,12 +1,3 @@
----
-title: Numerical cancellation
-layout: default
-created: 2026-11-13 23:34
-updated: 2026-11-13 23:34
-share: true
-tags:
-  - numerical-analysis
----
 # Numerical cancellation
 
 Consider the function
